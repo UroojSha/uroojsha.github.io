@@ -65,6 +65,9 @@ html {
     font-size: 50%;
     margin: 2px 2px
   }
+  .card {
+    display: none;
+  }
 }
 
 /* Base styles */
@@ -105,6 +108,7 @@ img {
   display: block;
   width: 100%;
 }
+
 
 /* nav */
 
@@ -161,6 +165,7 @@ img {
 .welcome-section > p {
   font-size: 3rem;
   font-weight: 200;
+  
   font-style: italic;
   color: var(--main-red);
 }
@@ -277,6 +282,11 @@ img {
 }
 
 @media (max-width: 28.75em) {
+  .welcome-section > p {
+    font-size: 2rem;
+    padding-left: 2rem;
+  }
+
   .contact-section-header > h2 {
     font-size: 4rem;
   }
