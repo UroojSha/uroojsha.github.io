@@ -1,4 +1,3 @@
 # uroojsha.github.io
-This is just Practice on GitHub 
-with local repo and remote repo
-i understand it now
+My portfolio website which i created myself with HTML,CSS and Javascript.
+All the projects mentioned in the portfolio are my pratice project which are created for different course projects.
